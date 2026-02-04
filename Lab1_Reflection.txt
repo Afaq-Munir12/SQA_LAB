@@ -1,0 +1,7 @@
+Lab1_Reflection.txt
+
+GitHub supports team collaboration by providing a shared platform where multiple team members can work on the same project simultaneously. Using repositories, branches, and pull requests, developers can contribute changes without affecting the main project directly. GitHub also allows easy tracking of changes, reviewing code, and resolving conflicts, which improves coordination and communication within a team.
+
+Version control is very important in Software Quality Assurance (SQA) because it helps track every change made to the software over time. It allows testers and developers to identify when bugs were introduced, compare different versions, and roll back to stable versions if needed. Version control ensures better quality, accountability, and reliability of software products.
+
+If you want it simpler, more technical, or more personal (first-person), tell me—I’ll tweak it exactly to your requirement 😊
